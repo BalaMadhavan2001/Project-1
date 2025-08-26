@@ -1,0 +1,16 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Simple CI/CD demo app with Node.js and Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
